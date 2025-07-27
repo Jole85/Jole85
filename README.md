@@ -1,14 +1,18 @@
 <!-- ENGLISH SECTION -->
 
-<h1 align="center">Hi, I'm Josip Pavlović 👋</h1>
-<p align="center">
-  Self-taught developer in transition from civil engineering.<br/>
-  Focused on Python automation, full-stack web development, and data engineering.
-</p>
+# 👨‍💻 Josip Pavlović – From Civil Engineering to Python Development 👋
 
----
+![Open for Work](https://img.shields.io/badge/Open%20for-Work-success?style=flat-square&logo=github)
+![Learning Python Automation](https://img.shields.io/badge/Focus-Python%20Automation-blue?style=flat-square&logo=python)
+![Daily Progress](https://img.shields.io/badge/Daily%20Commit-Yes-green?style=flat-square&logo=git)
+![GitHub Followers](https://img.shields.io/github/followers/Jole85?label=Followers&style=flat-square)
+![GitHub User Stars](https://img.shields.io/github/stars/Jole85?style=flat-square)
+
+- 🧠 Self-taught developer in transition from civil engineering.
+- 💡 Focused on Python automation, full-stack web development, and data engineering.
 
 ### 👨‍💻 About Me
+
 - 🏗️ Former civil engineer with 3+ years of experience using AutoCAD
 - 🧠 Passionate about technology, automation, and clean code
 - 🧑‍🎓 Learning programming intensively since **September 2024**
@@ -17,6 +21,7 @@
 ---
 
 ### 🛠️ Technologies & Tools
+
 - **Languages**: Python, JavaScript, HTML, CSS, C#
 - **Tools**: Git, GitHub, VS Code, Bash
 - **Frameworks**: (In progress...) React, Node.js, Express, Flask
@@ -25,6 +30,7 @@
 ---
 
 ### 📚 Courses I'm Working Through
+
 - 🔁 **100 Days of Code** (Python Bootcamp by Angela Yu - Udemy)
 - ⚙️ **Automate the Boring Stuff with Python** (Al Sweigart - Udemy)
 - 🧱 **The Web Developer Bootcamp** (Angela Yu - Udemy)
@@ -36,6 +42,7 @@
 ---
 
 ### 🚀 Current Projects
+
 - [`python-automation`](https://github.com/Jole85/python-automation) – Python scripts for real-life automation
 - [`web-development`](https://github.com/Jole85/web-development) – Frontend + backend projects (HTML/CSS/JS/React)
 - [`data-engineering`](https://github.com/Jole85/data-engineering) – Beginner ETL/data parsing projects
@@ -45,6 +52,7 @@
 ---
 
 ### 📫 Contact
+
 - 📍 Novi Sad, Serbia
 - 📧 jolepavlovic@outlook.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/josip-p-151951338)
@@ -62,6 +70,7 @@
 ---
 
 ### 👨‍💻 O meni
+
 - 🏗️ Po struci građevinski inženjer sa 3+ godine rada u AutoCAD-u
 - 🎯 Programiranjem se bavim intenzivno od **septembra 2024.**
 - 🔧 Svakodnevno radim na realnim projektima radi usavršavanja
@@ -70,6 +79,7 @@
 ---
 
 ### 🧰 Tehnologije i alati
+
 - **Jezici**: Python, JavaScript, HTML, CSS, C#
 - **Alati**: Git, GitHub, VS Code, Bash terminal
 - **Okviri**: U fazi učenja: React, Express, Flask
@@ -78,6 +88,7 @@
 ---
 
 ### 📚 Kursevi koje trenutno pohađam
+
 - 🔁 **100 Days of Code** (Angela Yu – Udemy)
 - ⚙️ **Automate the Boring Stuff with Python** (Al Sweigart – Udemy)
 - 🌐 **Microsoft Web Dev for Beginners** (24 lekcije + projekti)
@@ -89,6 +100,7 @@
 ---
 
 ### 🚀 Aktivni projekti
+
 - [`python-automation`](https://github.com/Jole85/python-automation) – Automatizacija fajlova, foldera i zadataka u Pythonu
 - [`web-development`](https://github.com/Jole85/web-development) – Frontend & backend učenje kroz projekte
 - [`data-engineering`](https://github.com/Jole85/data-engineering) – Početnički ETL i data parsing projekti
@@ -98,12 +110,9 @@
 ---
 
 ### 📫 Kontakt
+
 - 📍 Novi Sad, Srbija
 - 📧 jolepavlovic@outlook.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/josip-p-151951338)
 
 ---
-
-
-
-
