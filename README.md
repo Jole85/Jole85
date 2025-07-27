@@ -51,21 +51,12 @@
 
 ---
 
-### 📫 Contact
-
-- 📍 Novi Sad, Serbia
-- 📧 jolepavlovic@outlook.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/josip-p-151951338)
-
----
-
 <!-- SRPSKA VERZIJA - LATINICA -->
 
-<h2 align="center">Zdravo, ja sam Josip Pavlović 👋</h2>
-<p align="center">
-  Samouki programer u tranziciji iz građevinske industrije.<br/>
-  Fokusiran na Python automatizaciju, fullstack web razvoj i data inženjering.
-</p>
+# 👨‍💻 Josip Pavlović – Od građevinskog inženjera do Python automatizacije 👋
+
+- 🧠 Samouki programer u tranziciji iz građevinarstva.
+- 💡 Fokusiran na automatizaciju u Pythonu, full-stack web development i data inženjerstvo.
 
 ---
 
@@ -109,9 +100,9 @@
 
 ---
 
-### 📫 Kontakt
+### 📫 Contact
 
-- 📍 Novi Sad, Srbija
+- 📍 Novi Sad, Serbia
 - 📧 jolepavlovic@outlook.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/josip-p-151951338)
 
